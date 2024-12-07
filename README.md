@@ -57,7 +57,6 @@ emails.
 This will sequentially send emails to everyone and record them into the file specified
 by the `secret_santa_record_file` setting in `config.py`.
 
-⚠️ *Don't look at the contents of this file, unless you want to know who everyone's
-secret Santa is!*
+⚠️ *Don't look at this file, unless you want to know who everyone's secret Santa is!*
 
 Enjoy, and have a Merry Christmas! 🎄
