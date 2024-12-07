@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "secret-santa"
+version = "0.1.0"
+description = ""
+authors = ["Vincenzo <vincenzo.ventriglia@outlook.com>"]
+license = "MIT License"
+readme = "README.md"
+packages = [{include = "secret_santa"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
