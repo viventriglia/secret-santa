@@ -1,0 +1,6 @@
+.vscode/
+.venv/
+.env.secret
+
+# Don't track the secret santa email record!
+*.txt
